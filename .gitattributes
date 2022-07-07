@@ -1,0 +1,2 @@
+App_planificacion_linux filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
